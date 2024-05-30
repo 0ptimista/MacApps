@@ -8,3 +8,7 @@
     - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): 除了"Open Terminal Here" 还可以"Open in VS Code", "Open in PyCharm" etc.
 
 - [Calendr](https://github.com/pakerwreah/Calendr):在Mac顶部菜单栏添加一个快捷的小型日历.
+- [Cryptomator](https://github.com/cryptomator/cryptomator): 文件加密
+
+**命令行工具**
+- [viddy](https://github.com/sachaos/viddy): 时髦的`watch`命令
