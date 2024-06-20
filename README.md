@@ -10,6 +10,7 @@
 
 - [Calendr](https://github.com/pakerwreah/Calendr):在Mac顶部菜单栏添加一个快捷的小型日历.
 - [Cryptomator](https://github.com/cryptomator/cryptomator): 加密你在云盘(iCloud,Dropbox,OneDrive,etc.)中的文件.
+- [Ice](https://github.com/jordanbaird/Ice): Bartender 替代品.
 
 **命令行工具**
 - [viddy](https://github.com/sachaos/viddy): 时髦的`watch`命令
