@@ -6,7 +6,8 @@
 
 ## 列表
 
-- [linearmouse](https://github.com/linearmouse/linearmouse): 同时调整鼠标滚轮方向和侧键功能.
+- [linearmouse](https://github.com/linearmouse/linearmouse):
+  同时调整鼠标(大多数情况下使用罗技鼠标)滚轮方向和侧键功能.
 - [cdto](https://github.com/jbtule/cdto): 在Finder的工具栏添加一个传奇图标, 获得"Open Terminal Here"的能力.如果你使用iTerm2作为默认的Terinal,请使用[2.6](https://github.com/jbtule/cdto/issues/46)版本而不是最新版.
 
   - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal):
